@@ -40,13 +40,13 @@ https://ai.baidu.com/ai-doc/SPEECH/pk38lxi60 Register for the aiPkey and passwor
 
 ###### 1 BYBaiduapi,py
 
-https://ai.baidu.com/tech/speech/asr依照上面博客里面的操作进行注册，获取aipkey以及password
+https://ai.baidu.com/tech/speech/asr 依照上面博客里面的操作进行注册，获取aipkey以及password
 
 填入代码中相应位置
 
 ###### 2 translateByBAIDU.py
 
-https://ai.baidu.com/ai-doc/SPEECH/pk38lxi60依照上面博客里面的操作进行注册，获取aipkey以及password（注意：这里与上面操作的aip不一样，此处实现的是翻译接口，操作1实现的是语音识别接口）
+https://ai.baidu.com/ai-doc/SPEECH/pk38lxi60 依照上面博客里面的操作进行注册，获取aipkey以及password（注意：这里与上面操作的aip不一样，此处实现的是翻译接口，操作1实现的是语音识别接口）
 
 填入代码中相应位置
 
