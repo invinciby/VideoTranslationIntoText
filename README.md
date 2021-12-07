@@ -6,7 +6,8 @@
 
  Download the code and open it in the order shown below 
 
-<img src="/img/001.png" />
+![step](https://user-images.githubusercontent.com/78719936/144977406-a9846b39-5ed6-46ca-ba3f-db19bc2c0b7b.png)
+
 
 ###### 1 BYBaiduapi,py
 
@@ -34,7 +35,8 @@ https://ai.baidu.com/ai-doc/SPEECH/pk38lxi60 Register for the aiPkey and passwor
 
 下载代码，按照下面图片的顺序依次打开
 
-<img src="/img/001.png" />
+![step](https://user-images.githubusercontent.com/78719936/144977438-6d0a1437-9439-44ef-a1a0-c7ec36f850b1.png)
+
 
 ###### 1 BYBaiduapi,py
 
