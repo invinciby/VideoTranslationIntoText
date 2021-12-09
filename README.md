@@ -1,20 +1,31 @@
-2021/12/9 The project has been updated
-Added a home screen
+2021/12/9 
+#### The project has been updated
+#### Added a home screen
 ![image](https://user-images.githubusercontent.com/78719936/145416976-60716184-07f1-44e7-aad5-34650172ac70.png)
-Just drag it onto the screen
+#### Just drag it onto the screen  
 ![image](https://user-images.githubusercontent.com/78719936/145417110-d1b97afd-6813-42cb-af7a-7977928f74df.png)
-The final results
+#### The final results  
 ![image](https://user-images.githubusercontent.com/78719936/145417255-9210fdc3-f3ff-4f04-9f40-f6a79fc53388.png)
 
-
+\
+\
+\
+\
 2021/12/9 项目已更新
-添加了主界面
+#### 添加了主界面
 ![image](https://user-images.githubusercontent.com/78719936/145416976-60716184-07f1-44e7-aad5-34650172ac70.png)
-拖到即可
+#### 拖到即可
 ![image](https://user-images.githubusercontent.com/78719936/145417110-d1b97afd-6813-42cb-af7a-7977928f74df.png)
-最后结果
+#### 最后结果
 ![image](https://user-images.githubusercontent.com/78719936/145417255-9210fdc3-f3ff-4f04-9f40-f6a79fc53388.png)
-
+\
+\
+\
+\
+\
+\
+\
+\
 #  Using the tutorial 
 
 ####  About the project creation process https://invinciby.github.io/
